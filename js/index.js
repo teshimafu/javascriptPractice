@@ -1,0 +1,1 @@
+document.body.innerText = "Hello World!!"; // bodyに出力
