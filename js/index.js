@@ -1,1 +1,3 @@
-document.body.innerText = "Hello World!!"; // bodyに出力
+function HelloWorld(){
+  document.write("Hello World!");
+}
