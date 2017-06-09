@@ -18,3 +18,7 @@ function setlist(frag) {
     }
     else { var x = 1; }
 }
+
+function translateURL(url) {
+    window.location.href = url;
+}
